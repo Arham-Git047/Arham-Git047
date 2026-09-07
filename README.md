@@ -80,7 +80,7 @@ and turning them into usable technical solutions.
 
 ---
 
-## Selected Achievements
+## Achievements
 
 <div align="center">
 
